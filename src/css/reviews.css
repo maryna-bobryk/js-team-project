@@ -1,4 +1,4 @@
-/* REVIEWS */
+/* 
 .reviews {
   padding: 48px 0;
   background-color: #1c1d20;
@@ -13,12 +13,6 @@
   color: rgba(250, 250, 250, 0.4);
   margin-bottom: 32px;
 }
-
-/* .swiper-card {
-  border: 1px solid rgba(250, 250, 250, 0.2);
-  border-radius: 20px;
-  padding: 32px 24px;
-} */
 
 .swiper {
   width: 100%;
@@ -59,4 +53,4 @@
   text-align: center;
   color: red;
   font-size: 18px;
-}
+} */
